@@ -251,7 +251,7 @@ jQuery(document).ready(function($) {
                     }
                     $.loadScript('./assets/notify.js', function(){
                         Epage.init({
-                            offer_id: 'duracore-th',
+                            offer_id: 'duramax-th',
                             hint_phone: 'xxxxxxxxxx',
                             hint_name: 'กิตติ ชะไว',
                             popup_time: 45000,
